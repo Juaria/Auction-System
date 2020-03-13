@@ -120,7 +120,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         <!--timer-->
         <h4 id="demo" style="color: #F21356; text-align: center; font-weight: bold"></h4>
         <script>
-          var countDownDate = new Date("Jan 5, 2020 15:30:30").getTime();
+          var countDownDate = new Date("Apr 15, 2020 15:30:30").getTime();
       // Update the count down every 1 second
       var x = setInterval(function() {
 
@@ -167,7 +167,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         <!--timer-->
         <h4 id="demo2" style="color: #F21356; text-align: center; font-weight: bold"></h4>
         <script>
-          var countDownDate = new Date("Jan 10, 2020 15:30:30").getTime();
+          var countDownDate = new Date("Apr 15, 2020 15:30:30").getTime();
       // Update the count down every 1 second
       var x = setInterval(function() {
 
@@ -213,7 +213,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         <!--timer-->
         <h4 id="demo3" style="color: #F21356; text-align: center; font-weight: bold"></h4>
         <script>
-          var countDownDate = new Date("Jan 10, 2020 15:30:30").getTime();
+          var countDownDate = new Date("Apr 15, 2020 15:30:30").getTime();
       // Update the count down every 1 second
       var x = setInterval(function() {
 
@@ -261,7 +261,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         <!--timer-->
         <h4 id="demo4" style="color: #F21356; text-align: center; font-weight: bold"></h4>
         <script>
-          var countDownDate = new Date("Jan 10, 2020 15:30:30").getTime();
+          var countDownDate = new Date("Apr 15, 2020 15:30:30").getTime();
       // Update the count down every 1 second
       var x = setInterval(function() {
 
@@ -307,7 +307,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         <!--timer-->
         <h4 id="demo5" style="color: #F21356; text-align: center; font-weight: bold"></h4>
         <script>
-          var countDownDate = new Date("Jan 10, 2020 15:30:30").getTime();
+          var countDownDate = new Date("Apr 15, 2020 15:30:30").getTime();
       // Update the count down every 1 second
       var x = setInterval(function() {
 
@@ -354,7 +354,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         <!--timer-->
         <h4 id="demo6" style="color: #F21356; text-align: center; font-weight: bold"></h4>
         <script>
-          var countDownDate = new Date("Jan 10, 2020 15:30:30").getTime();
+          var countDownDate = new Date("Apr 15, 2020 15:30:30").getTime();
       // Update the count down every 1 second
       var x = setInterval(function() {
 
